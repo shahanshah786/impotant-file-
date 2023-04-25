@@ -1,0 +1,22 @@
+SENSER:-
+Sensors" ke baare mein bataya hai. Sensors ek electronic device hota hai jo kisi physical quantity jaise temperature, pressure, light, 
+sound, motion, etc. ko measure karke electrical signals ya digital data ke roop mein generate karta hai.
+
+Is project mein sensors ka use karke hum car accident ki information collect karenge. Hum different sensors ka use kar sakte hain jaise:
+
+GPS sensor: GPS sensor location information provide karta hai, jisse hum car accident ki exact location determine kar sakte hain.
+
+Accelerometer sensor: Accelerometer sensor car ki acceleration aur deceleration ko measure karta hai. Isse hum car ke speed aur 
+impact force jaise parameters calculate kar sakte hain.
+
+Gyroscope sensor: Gyroscope sensor car ki orientation aur rotation ko measure karta hai. Isse hum car ke movement ki direction
+aur angle jaise parameters calculate kar sakte hain.
+
+Camera sensor: Camera sensor car accident ki visual information provide karta hai, jisse hum car accident ke severity ko determine kar sakte hain.
+
+In sensors ki readings ko collect karne ke baad, hum inka use karke car accident ki information ko analyze kar sakte hain aur phir us information 
+ko emergency services ke liye notify kar sakte hain.
+
+
+
+
