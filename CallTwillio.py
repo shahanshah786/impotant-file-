@@ -27,11 +27,11 @@ public class Example {
 
 
 
-FOR EXAMPLE 
+//FOR EXAMPLE 
 
-JSON FILE 
+//JSON FILE 
 
-{
+/*{
   "account_sid": "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
   "answered_by": null,
   "api_version": "2010-04-01",
@@ -70,3 +70,4 @@ JSON FILE
   "uri": "/2010-04-01/Accounts/ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Calls/CAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json",
   "queue_time": "1000"
 }
+*/
