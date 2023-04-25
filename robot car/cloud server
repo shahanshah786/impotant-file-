@@ -1,0 +1,15 @@
+CLOUD SERVER :-
+Cloud Server" ke baare mein bataya hai. Cloud server ek remote server hota hai jo internet ke through access 
+kiya ja sakta hai aur data storage aur processing ke liye use kiya ja sakta hai. Iske through hum real-time data collection aur analysis kar sakte hain.
+
+Is project mein cloud server ka use isliye kiya jata hai ki jab car accident hota hai toh sensors ki readings cloud server mein collect ki jati hai
+aur phir us data ko process karke emergency services ko notify kiya jata hai.
+Cloud server par aap ek application program interface (API) develop kar sakte hain jo device se data collect karega aur use analysis
+karke notifications bhejega.
+
+Aap Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform jaise cloud service providers ka use kar sakte hain jo 
+aapko ek scalable aur reliable infrastructure provide karenge jiske through aap apne application ko deploy kar sakte hain.
+
+
+
+
