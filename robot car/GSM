@@ -1,0 +1,14 @@
+GSM:-
+Global System for Mobile Communication/General Packet Radio Service (GSM/GPRS) module" likh diya tha. Mai iska explanation aapko is
+jawab mein provide karunga.
+
+GSM/GPRS module ek communication device hota hai jo cellular network ke through data ko transmit karne ki capability rakhta hai.
+Ye modules generally SIM cards ke sath aate hain aur mobile network ke through internet connectivity provide karte hain.
+
+Is project mein, GSM/GPRS module ka use karke hum car accident ki information ko automatic tarike se emergency services jaise police
+aur ambulance ke through send kar sakte hain. GSM/GPRS module sensors se collect ki gayi information ko collect karta hai aur usse SIM card 
+ke through cellular network ke sath transmit karta hai. Is tarah se hum apni car se kahin bhi hote hue emergency services ko inform kar sakte hain.
+
+Aap different manufacturers ke GSM/GPRS modules ka use kar sakte hain jaise SIM800L, SIM900A, aur A7 GSM/GPRS module, etc. 
+Inmein aapko cellular network connectivity ke sath-sath GPS aur other peripherals ke liye bhi interfaces milte hain, jiske through
+aap car ki location aur other relevant information ko bhi send kar sakte hain.
