@@ -1,0 +1,13 @@
+"Power Source" ke baare mein bataya hai. Is project ke liye power source bahut important hai kyunki ye project continuous operation ke liye designed hai.
+
+Microcontroller, sensors, GSM/GPRS module aur other peripherals ke liye 5V DC power source ki jarurat hoti hai. 
+Ye power source car ki battery se provide kiya jata hai. Car battery generally 12V hai, isliye hum isse 5V ke liye regulate karna hoga.
+
+Iske liye hum voltage regulator ka use kar sakte hain, jaise LM7805. LM7805 12V input voltage ko 5V output voltage mein convert karta hai.
+Ye voltage regulator bahut hi reliable aur efficient hota hai.
+
+Aur agar aapki car mein inbuilt voltage regulator nahi hai, to aap ek DC-DC converter ka use kar sakte hain, jisse aap car ki battery voltage 
+ko regulate karke 5V DC output generate kar sakte hain.
+
+Is project mein, power source ko reliable banane ke liye hum multiple safety features ka use kar sakte hain jaise over-voltage protection,
+reverse polarity protection, aur over-current protection. Isse car battery aur connected electronics ke damage se bacha ja sakta hai.
