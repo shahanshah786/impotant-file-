@@ -1,0 +1,13 @@
+Microcontroller:-
+
+Microcontroller" ke baare mein bataya hai. Microcontroller ek small computer chip hota hai jo ek electronic circuit board par mounted hota hai.
+Microcontroller mein processor, memory, input/output ports, aur other peripherals shamil hote hain jo uske through 
+electronic devices aur systems ko control karne mein use kiye jaate hain.
+
+Is project mein microcontroller ka use karke hum sensors ko control karenge aur unki readings ko collect karenge. Microcontroller sensors 
+se readings collect karke us data ko digital signals ke roop mein convert karta hai aur phir use cloud server ya other processing devices 
+tak transmit karta hai.
+
+Aap different microcontroller ka use kar sakte hain jaise Arduino, Raspberry Pi, ESP32, etc. In microcontrollers mein aapko sensors ke readings
+ke sath-sath communication protocols jaise Wi-Fi, Bluetooth, LoRaWAN, etc. ke suppor
+t bhi milte hain jiske through aap real-time data transfer kar sakte hain.
