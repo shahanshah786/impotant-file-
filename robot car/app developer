@@ -1,0 +1,22 @@
+App Development" ke baare mein bataya hai. Is project ke liye hum ek mobile application develop karenge jisse hum
+car accident ke information ko receive aur process kar sakenge.
+
+Iske liye aap kisi bhi mobile app development platform ka use kar sakte hain jaise Android Studio, Xcode, Flutter,
+React Native, etc. In platforms mein se koi bhi ek choose karke aap apni mobile app develop kar sakte hain.
+
+Agar aap Android platform ka use karna chahte hain, to Android Studio ek bahut hi popular tool hai. Ye Android app 
+development ke liye official IDE hai. Is tool mein aap Java aur Kotlin programming languages ka use kar sakte hain.
+Aap UI design ke liye XML ka use kar sakte hain.
+
+Agar aap iOS platform ka use karna chahte hain, to Xcode ek popular tool hai. Ye Apple ke official IDE hai iOS aur macOS
+app development ke liye. Is tool mein aap Objective-C aur Swift programming languages ka use kar sakte hain. Aap UI design ke
+liye Interface Builder ka use kar sakte hain.
+
+Flutter ek open-source mobile app development framework hai, jisme aap Android aur iOS dono platform ke liye ek hi codebase ko use kar sakte hain. 
+Is framework mein aap Dart programming language ka use kar sakte hain.
+
+React Native bhi ek open-source mobile app development framework hai, jisme aap JavaScript programming language ka use kar sakte hain
+. Is framework mein aap Android aur iOS dono platform ke liye ek hi codebase ko use kar sakte hain.
+
+Is project ke liye, aap apne app mein GPS aur GPRS ka use kar sakte hain, jisse aap accident ki location aur other information receive kar sakte hain. 
+Iske alawa, aap app mein push notification ka use kar sakte hain, jisse police aur ambulance ko information automatically send kiya ja sakta hai.
